@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **JAVA**
 
-- 💬 Ask me about **JAVA, SPRINGİ MICROSERVICES**
+- 💬 Ask me about **JAVA, SPRING, MICROSERVICES**
 
 - 📫 How to reach me **yigithanyy@outlook.com.tr**
 
